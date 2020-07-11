@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95d34b1e0d744bf4b83f8ad47404fadc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: nintendoP_Humming-E_002pr
+  fontNames:
+  - nintendoP_Humming-E_002pr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
